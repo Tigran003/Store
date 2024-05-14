@@ -1,0 +1,170 @@
+[
+  {
+    "model": "goods.products",
+    "pk": 1,
+    "fields": {
+      "name": "Tea table and three chairs",
+      "slug": "tea-table-and-three-chairs",
+      "description": "Set of three chairs and designer table for living room",
+      "image": "",
+      "price": "150.00",
+      "discount": "0.00",
+      "quantity": 10,
+      "category": 2
+    }
+  },
+  {
+    "model": "goods.products",
+    "pk": 2,
+    "fields": {
+      "name": "Set of tea table and two chairs",
+      "slug": "set-of-tea-table-and-two-chairs",
+      "description": "A set of a table and two chairs in a minimalist style",
+      "image": "",
+      "price": "93.00",
+      "discount": "0.00",
+      "quantity": 11,
+      "category": 2
+    }
+  },
+  {
+    "model": "goods.products",
+    "pk": 3,
+    "fields": {
+      "name": "Double bed",
+      "slug": "double-bed",
+      "description": "The bed is double with a headrest and is generally very orthopedic",
+      "image": "",
+      "price": "670.00",
+      "discount": "0.00",
+      "quantity": 12,
+      "category": 3
+    }
+  },
+  {
+    "model": "goods.products",
+    "pk": 4,
+    "fields": {
+      "name": "Kitchen table with sink",
+      "slug": "kitchen-table-with-sink",
+      "description": "Kitchen table for dining with built-in sink and chairs",
+      "image": "",
+      "price": "365.00",
+      "discount": "0.00",
+      "quantity": 11,
+      "category": 2
+    }
+  },
+  {
+    "model": "goods.products",
+    "pk": 5,
+    "fields": {
+      "name": "Kitchen table with built-in",
+      "slug": "kitchen-table-with-built-in",
+      "description": "Kitchen table with built-in stove and sink. A lot of shelves and generally beautiful",
+      "image": "",
+      "price": "430.00",
+      "discount": "0.00",
+      "quantity": 12,
+      "category": 2
+    }
+  },
+  {
+    "model": "goods.products",
+    "pk": 6,
+    "fields": {
+      "name": "Corner sofa for living room",
+      "slug": "corner-sofa-for-living-room",
+      "description": "Corner sofa, folds out into a double bed, for the living room and receiving guests",
+      "image": "",
+      "price": "610.00",
+      "discount": "0.00",
+      "quantity": 10,
+      "category": 7
+    }
+  },
+  {
+    "model": "goods.products",
+    "pk": 7,
+    "fields": {
+      "name": "Bedside table",
+      "slug": "bedside-table",
+      "description": "Bedside table with two drawers",
+      "image": "",
+      "price": "55.00",
+      "discount": "0.00",
+      "quantity": 10,
+      "category": 3
+    }
+  },
+  {
+    "model": "goods.products",
+    "pk": 8,
+    "fields": {
+      "name": "Sofa",
+      "slug": "sofa",
+      "description": "A sofa, also known as an ordinary sofa, is nothing remarkable to describe",
+      "image": "",
+      "price": "190.00",
+      "discount": "0.00",
+      "quantity": 12,
+      "category": 7
+    }
+  },
+  {
+    "model": "goods.products",
+    "pk": 9,
+    "fields": {
+      "name": "Office chair",
+      "slug": "office-chair",
+      "description": "Product description, about how cool it is, but it's a chair, what can I say",
+      "image": "",
+      "price": "30.00",
+      "discount": "0.00",
+      "quantity": 20,
+      "category": 6
+    }
+  },
+  {
+    "model": "goods.products",
+    "pk": 10,
+    "fields": {
+      "name": "Plants",
+      "slug": "plants",
+      "description": "A plant to decorate your interior will give freshness and serenity to the environment",
+      "image": "",
+      "price": "10.00",
+      "discount": "0.00",
+      "quantity": 10,
+      "category": 4
+    }
+  },
+  {
+    "model": "goods.products",
+    "pk": 11,
+    "fields": {
+      "name": "The flower is stylized",
+      "slug": "the-flower-is-stylized",
+      "description": "Designer flower (possibly artificial) to decorate the interior",
+      "image": "",
+      "price": "15.00",
+      "discount": "0.00",
+      "quantity": 20,
+      "category": 4
+    }
+  },
+  {
+    "model": "goods.products",
+    "pk": 12,
+    "fields": {
+      "name": "Bedside table-2",
+      "slug": "bedside-table-2",
+      "description": "A table that looks rather strange, but can be placed next to a bed",
+      "image": "",
+      "price": "25.00",
+      "discount": "0.00",
+      "quantity": 10,
+      "category": 3
+    }
+  }
+]
