@@ -12,3 +12,4 @@ urlpatterns = [
     path('users-cart/',users_cart,name='users_cart'),
     path('logout/', logout, name='logout'),
 ]
+
